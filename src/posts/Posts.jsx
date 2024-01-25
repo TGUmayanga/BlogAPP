@@ -1,9 +1,9 @@
-import React from 'react'
-import './posts.css' 
+import './posts.css'
 
-export default function Post() {
+export default function Posts() {
   return (
-    <div className='posts'>Posts</div>
+    <div className='posts'>
+            posts
+    </div>
   )
 }
- 
