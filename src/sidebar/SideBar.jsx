@@ -15,6 +15,26 @@ team player, adept at solving problems creatively, analyzing situations effectiv
 collaboratively. My communication skills, both written and verbal, enable me to convey complex technical 
 concepts clearly, facilitating smooth collaboration within diverse work settings.</p>
         </div>
+        <div className="sidebarItem">
+        <span className='sidebarTitle'>Categories</span>
+        <ul className="sidebarList">
+            <li className="sidebarListItem">Life</li>
+            <li className="sidebarListItem">Music</li>
+            <li className="sidebarListItem">Style</li>
+            <li className="sidebarListItem">Sport</li>
+            <li className="sidebarListItem">Tech</li>
+            <li className="sidebarListItem">Cinema</li>
+        </ul>
+        </div>
+        <div className="sidebarItem">
+        <span className='sidebarTitle'>Follow Us</span>
+        <div className="sidebarSocial">
+        <i className="topIcon fa-brands fa-square-facebook"></i>
+        <i className="topIcon fa-brands fa-square-instagram"></i>
+        <i className="topIcon fa-brands fa-square-github"></i>
+        <i className="topIcon fa-brands fa-linkedin"></i>
+        </div>
+        </div>
     </div>
   )
 }
